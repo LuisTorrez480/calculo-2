@@ -1,0 +1,7 @@
+streamlit
+folium
+streamlit-folium
+geopy
+requests
+google-generativeai
+numpy
